@@ -38,7 +38,7 @@
     "framework-arduinoasrmicro": {
       "type": "framework",
       "owner": "heltecautomation",
-      "version": "~1.5.0",
+      "version": "https://github.com/HelTecAutomation/CubeCell-Arduino",
       "optional": true
     },
     "tool-cubecellelftool": {
